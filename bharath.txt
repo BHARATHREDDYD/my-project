@@ -1,0 +1,10 @@
+class student:
+  def__init__(self):
+    self.name='bharath'
+    self.age=24
+    self.marks=80
+  def talk(self):
+    print(self.name)
+    print(self.age)
+    print(self.marks)
+s=student()
